@@ -37,22 +37,11 @@ I'm a final-year Software Development & Databases student at GTC, passionate abo
 
 ## 🚀 What I'm Working On
 
-- 🎓 **Graduation Project** — Full-Stack Inventory Management System (ASP.NET Core + SQL Server)
+- 🎓 **Graduation Project** — Full-Stack Internship Management System (ASP.NET Core + SQL Server)
 - 📚 Learning AI & Machine Learning fundamentals (Python, NumPy, Classification, Decision Trees)
 
 ---
 
-## 📂 Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| Inventory Management System | ASP.NET Core, SQL Server | Full-stack graduation project |
-| BlackJack Game | JavaScript | Browser-based card game |
-| Employee Management System | C#, WPF | Desktop app for managing employees |
-| Flutter Mobile App | Flutter, Dart | Mobile application |
-| Chrome Extension | JavaScript | Browser productivity extension |
-
----
 
 ## 📊 GitHub Stats
 
